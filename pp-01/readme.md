@@ -39,7 +39,7 @@ changes to a remote GitHub repository. Follow the steps below exactly to receive
    editor, and write below the URL to your fork of the GitHub repository, and the add and commit
    this file:
 
-   My Production Problems repository URL:
+   My Production Problems repository URL: https://github.com/csherman2828/fwd-production-problems
 
 4. Next, push your commit to GitHub. `git push origin main` from your command line. That is all you
    need to do to submit future Production Problems. **There is no need to open a pull request.** So
