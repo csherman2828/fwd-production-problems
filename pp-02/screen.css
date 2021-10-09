@@ -8,6 +8,14 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 /* Begin site styles below */
 
+/*
+  Typographic Properties
+  Base Line Height:   28px;
+  Base Font Size:     22px;
+  Modular Scale:      1.333;
+    https://www.modularscale.com/?22&px;&1.333
+*/
+
 html {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 28px; /* 28px / 18px = 1.555555555555em */
