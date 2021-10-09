@@ -29,6 +29,20 @@ p {
   padding-bottom: 28px; /* add in one lineheight of space */
 }
 
+h1 {
+  font-size: 39.092px;
+  line-height: 42px; /* 28px * 1.5 = 42px */
+}
+
+h2 {
+  font-size:29.326px;
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+}
+
 
 /** A quick baseline grid overlay using css+svg. Inspired by [Basehold.it](https://basehold.it/). @author leshido */
 .g body {
