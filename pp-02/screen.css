@@ -26,7 +26,8 @@ html {
 h1,
 h2,
 h3,
-p {
+p,
+section {
   padding-bottom: 28px; /* add in one lineheight of space */
 }
 
