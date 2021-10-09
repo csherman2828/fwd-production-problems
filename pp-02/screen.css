@@ -9,11 +9,10 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 /* Begin site styles below */
 
 html {
+  font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 28px; /* 28px / 18px = 1.555555555555em */
   font-size: 22px; /* 22px / 16px = 1.375em */
 }
-
-
 
 
 /** A quick baseline grid overlay using css+svg. Inspired by [Basehold.it](https://basehold.it/). @author leshido */
