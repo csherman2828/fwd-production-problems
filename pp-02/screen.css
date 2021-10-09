@@ -14,6 +14,13 @@ html {
   font-size: 22px; /* 22px / 16px = 1.375em */
 }
 
+h1,
+h2,
+h3,
+p {
+  padding-bottom: 28px; /* add in one lineheight of space */
+}
+
 
 /** A quick baseline grid overlay using css+svg. Inspired by [Basehold.it](https://basehold.it/). @author leshido */
 .g body {
