@@ -20,6 +20,7 @@ html {
   font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
   line-height: 28px; /* 28px / 18px = 1.555555555555em */
   font-size: 22px; /* 22px / 16px = 1.375em */
+  padding: 14px;
 }
 
 h1,
