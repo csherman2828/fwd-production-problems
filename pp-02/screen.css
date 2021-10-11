@@ -23,11 +23,7 @@ html {
   padding: 14px;
 }
 
-h1,
-h2,
-h3,
-p,
-section {
+h1, h2, h3, p, section {
   padding-bottom: 28px; /* add in one lineheight of space */
 }
 
@@ -48,7 +44,6 @@ h3 {
 a {
   text-decoration: none;
 }
-
 
 /** A quick baseline grid overlay using css+svg. Inspired by [Basehold.it](https://basehold.it/). @author leshido */
 .g body {
