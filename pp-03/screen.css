@@ -42,9 +42,28 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 }
 
 @media screen and (min-width: 600px) {
+  #three,
+  #two,
+  #one {
+    height: 50vw;
+  }
 
+  #two,
+  #one {
+    width: 50vw;
+  }
 }
 
 @media screen and (min-width: 800px) {
+  #content {
+    flex-flow: column-reverse wrap-reverse;
+    height: 33vw;
+  }
 
+  #three,
+  #two,
+  #one {
+    width: auto;
+    height: 33vw;
+  }
 }
